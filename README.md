@@ -4,7 +4,7 @@
 
 **Audiora** is a free, open-source music streaming web app inspired by popular platforms like Spotify and Apple Music. Dive into a vast collection of tracks across genres, explore top charts by genre and artist, and sing along with our lyrics display feature. Experience music like never before!
 
-Visit us: [https://audioraweb.com/](https://audioraweb.com/)
+Visit us: [https://audioraweb.com/](https://audioraweb.com/) (No longer maintained)
 
 ## Features
 
